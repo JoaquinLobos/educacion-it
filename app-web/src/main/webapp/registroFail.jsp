@@ -12,7 +12,7 @@
 	    	<div class="row">
 	    		<div class="col-6">
 			       <div class="alert alert-danger">
-			       		<p>Error</p>
+			       		<p>Error wtf</p>
 			       </div>
 			     </div>
 		     </div>

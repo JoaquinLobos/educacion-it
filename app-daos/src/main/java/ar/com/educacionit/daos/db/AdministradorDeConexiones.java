@@ -12,7 +12,7 @@ public class AdministradorDeConexiones {
 		String host = "localhost";
 		String user = "root";
 		String password = "root";
-		String dbName = "bootcamp-java-educacionit";
+		String dbName = "bootcamp";
 		String driverName = "com.mysql.cj.jdbc.Driver";
 		String url = "jdbc:mysql://"+host+"/"+dbName+"?serverTimeZone=UTC&userSSL=false";
 		
